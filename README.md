@@ -4,6 +4,8 @@ This is an example repository for the Summer of Tech git tutorial.
 
 Feel free to fork and modify it as you see fit.
 
+* [VIEW ABOUT ME PAGE HERE!](https://htmlpreview.github.io/?https://github.com/NRais/summer-of-git/blob/master/index.html)
+
 ## Setup
 
 Make sure you have installed the GitHub desktop client and signed up to GitHub:
